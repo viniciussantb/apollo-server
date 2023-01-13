@@ -1,0 +1,24 @@
+{
+  "name": "apollo-server",
+  "version": "1.0.0",
+  "description": "Get started with Apollo Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciussantb/apollo-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viniciussantb/apollo-server/issues"
+  },
+  "homepage": "https://github.com/viniciussantb/apollo-server#readme",
+  "dependencies": {
+    "@apollo/server": "^4.3.0",
+    "graphql": "^16.6.0"
+  }
+}
